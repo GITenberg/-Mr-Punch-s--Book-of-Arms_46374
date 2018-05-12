@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37406'
     url: http://www.gutenberg.org/2009/agents/37406
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46374#-Mr-Punch-s--Book-of-Arms
 gutenberg_issued: '2014-07-22'
 gutenberg_type: Text
 identifiers:
